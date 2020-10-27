@@ -1,0 +1,20 @@
+{
+    "Author": "Jakob Gottlieb Svendsen",
+    "ContentSize": 8431,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/azure-stack-vm-gui-beta-1-for-mas-tp2/master/MAS-VM-Admin_v1.0.0.ps1",
+    "DownloadCount": 680,
+    "Id": "Azure-Stack-VM-GUI-Beta-1-9e55aa80",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 217,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2016-2-22T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "I hope you have had time and oppotunity to try out the new Azure Stack POC.In Azure Stack the VMs are named by their GUID in Hyper-V. This makes perfect sense, since multiple tenants could easily name their VMs the same name.But when administrating your hyper-v host, It can be a",
+    "Title": "Azure Stack VM GUI Beta 1 for MAS TP2",
+    "UpdatedDate": "2016-12-1T00:00:00",
+    "Url": "https://github.com/azureautomation/azure-stack-vm-gui-beta-1-for-mas-tp2",
+    "UserTags": "Azure Stack, Microsoft Azure Stack"
+}
